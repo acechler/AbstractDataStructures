@@ -19,6 +19,9 @@
     <Filter Include="Header Files\Stack">
       <UniqueIdentifier>{bfcca0d4-93a4-4a1c-8ebd-a9ca745d57b5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Prompt">
+      <UniqueIdentifier>{b34b6a41-57e6-452b-b780-3067693b397c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -40,6 +43,15 @@
     </ClInclude>
     <ClInclude Include="RandomBag.hpp">
       <Filter>Header Files\Bag</Filter>
+    </ClInclude>
+    <ClInclude Include="IPrompt.h">
+      <Filter>Header Files\Prompt</Filter>
+    </ClInclude>
+    <ClInclude Include="Prompt.hpp">
+      <Filter>Header Files\Prompt</Filter>
+    </ClInclude>
+    <ClInclude Include="ITable.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
