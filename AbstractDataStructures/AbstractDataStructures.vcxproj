@@ -131,9 +131,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bag.hpp" />
+    <ClInclude Include="BagUtility.hpp" />
     <ClInclude Include="IBag.h" />
     <ClInclude Include="IStack.h" />
-    <ClInclude Include="RandomBag.hpp" />
+    <ClInclude Include="ITable.h" />
     <ClInclude Include="Stack.hpp" />
   </ItemGroup>
   <ItemGroup>
