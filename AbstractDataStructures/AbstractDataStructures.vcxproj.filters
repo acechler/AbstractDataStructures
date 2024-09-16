@@ -41,17 +41,11 @@
     <ClInclude Include="IStack.h">
       <Filter>Header Files\Stack</Filter>
     </ClInclude>
-    <ClInclude Include="RandomBag.hpp">
-      <Filter>Header Files\Bag</Filter>
-    </ClInclude>
-    <ClInclude Include="IPrompt.h">
-      <Filter>Header Files\Prompt</Filter>
-    </ClInclude>
-    <ClInclude Include="Prompt.hpp">
-      <Filter>Header Files\Prompt</Filter>
-    </ClInclude>
     <ClInclude Include="ITable.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BagUtility.hpp">
+      <Filter>Header Files\Bag</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
